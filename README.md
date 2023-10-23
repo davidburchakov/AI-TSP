@@ -1,8 +1,15 @@
 # Optimization Problem - Travelling Salesman Problem 
+## Description
 The purpose of the project is to learn and apply different optimizations approaches/algorithms for the famous Travelling Salesman (SalesPerson) Problem.
 A dataset with 1000 establishments is given, as well as their latitude and longitude location. 
 
 Two scenarios explored.
+
+
+**For a more detailed description open [report](report_FINAL.pdf)**
+
+## Set-up
+Open *AITSP-FINAL.ipynb* file with Jupyter Notebook
 
 # First Scenario - Travel time minimization
 
