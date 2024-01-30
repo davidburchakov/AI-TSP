@@ -8,6 +8,8 @@ Two scenarios explored.
 
 **For a more detailed description open [report](report_FINAL.pdf)**
 
+![paper preview](tsp.png)
+
 ## Set-up
 Open *AITSP-FINAL.ipynb* file with Jupyter Notebook
 
